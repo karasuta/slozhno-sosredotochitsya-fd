@@ -225,9 +225,6 @@
     display: block;
     margin-block-end: 60px;
   }
-  .content__article-title.gallery {
-    margin-block-end: 0;
-  }
   .content__list.gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
